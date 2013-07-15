@@ -1,0 +1,369 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{iii}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Κατάλογος Σχημάτων}{10}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Κατάλογος Πινάκων}{11}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Πρόλογος}{13}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Σύστημα και ενσωματωμένα συστήματα}}{13}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Μοντελοποίηση συστημάτων}}{13}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Μεθοδολογίες μοντελοποίησης συστημάτων}}{13}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Γλώσσες μοντελοποίησης συστημάτων}}{13}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Γλώσσα SyML}}{13}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Πρώτο πεδίο εφαρμογής : MPS System}}{13}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Δεύτερο πεδίο εφαρμογής : Takos System}}{14}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Συμπεράσματα}}{14}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Συσχετιζόμενες εργασίες}}{14}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κεφάλαιο \ref {κεφ.:Προοπτικές}}{14}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{14}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Σύστημα και ενσωματωμένα συστήματα}{15}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Εισαγωγή στις έννοιες συστημάτων και ενσωματωμένων}{15}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{15}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{15}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{16}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{16}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{16}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Η εξέλιξη των συστημάτων σήμερα}{16}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{16}{section*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Μοντελοποίηση συστημάτων}{18}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Εισαγωγή}{18}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{18}{section*.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{18}{section*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{19}{section*.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{19}{section*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{19}{section*.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{19}{section*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{19}{section*.29}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{20}{section*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{20}{section*.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{20}{section*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{21}{section*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{21}{section*.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Customer Benefits}{21}{section*.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Supplier Benefits}{22}{section*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{23}{section*.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{23}{section*.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Γραφική μοντελοποίηση συστημάτων}{23}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{23}{section*.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Μοντελοποίση και εφαρμογή σε πεδία ευρύτερα από του μηχανικού}{24}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{24}{section*.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Χρησιμοποίηση μοντέλων \p@index {μοντέλο} για τον στρατηγικό σχεδιασμό της απόθεσης πυρηνικών αποβλήτων.}{24}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{24}{section*.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{24}{section*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Μεθοδολογίες μοντελοποίησης συστημάτων}{26}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Ακμάζουσες MBSE μεθοδολογίες}{26}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}IBM Telelogic Harmony-SE}{26}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}INCOSE Object-Oriented Systems Engineering Method (OOSEM)}{26}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}IBM Rational Unified Process for Systems Engineering (RUP SE) for Model-Driven Systems Development (MDSD)}{26}{subsection.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4}Vitech Model-Based System Engineering (MBSE) Methodology}{26}{subsection.3.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.5}JPL State Analysis (SA)}{26}{subsection.3.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.6}Dori Object-Process Methodology (OPM)}{26}{subsection.3.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.7}Department of Defense Architecture Framework (DoDAF)}{26}{subsection.3.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Γλώσσες μοντελοποίησης συστημάτων}{27}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}AADL}{27}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Architecture Analysis \& Design Language}{27}{section*.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}MARTE}{27}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Modelling and Analysis of Real Time and Embedded systems}{27}{section*.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}UPDM}{27}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Unified Modeling Language (UML) Profile for DoDAF and MoDAF (UPDM}{27}{section*.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}AML}{27}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Abstract systems Modelling Language}{27}{section*.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}SLM}{28}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{System Engineering Process}{28}{section*.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}SLDL}{28}{section.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Πεδίο δοκιμής 1}{28}{section*.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.7}Unified Modeling Language - UML}{28}{section.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\gls {UML}}{28}{section*.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.8}Systems Engineering Modelling Language - SysML}{28}{section.4.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\glsname {SysML}}{28}{section*.50}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Γλώσσα SyML}{29}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Εισαγωγή}{29}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Παρουσίαση διαγραμμάτων \cite {APracticalGuideToSysML}}{29}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Activity diagram}{29}{section*.51}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Sequence diagram}{29}{section*.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{State Machine diagram}{29}{section*.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Use case. diagram}{29}{section*.54}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Block definition diagram}{29}{section*.55}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Internal block diagram}{30}{section*.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Parametric diagram}{30}{section*.57}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Package diagram}{30}{section*.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Λογισμικό υποστήριξης}{30}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{30}{section*.59}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Πρώτο πεδίο εφαρμογής :\\ MPS\textregistered System}{31}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Παρουσίαση του συστήματος}{31}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Εισαγωγή}{31}{section*.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Κατασκευή}{31}{section*.61}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Αιτιολόγηση επιλογής}{33}{section*.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Πρώτες ύλες}{33}{section*.63}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Παραγωγική διαδικασία}{33}{section*.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{34}{section*.65}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.1}Σταθμός διανομής \cite {FestoMPSDistributionStationManual} \cite {ΤοΦυσικόΣύστημαFestoMPS} \cite {UMLΕνσωματωμέναΣυστήματα}}{34}{subsection.6.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Εισαγωγή}{34}{section*.66}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{34}{section*.67}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Στοίβα αποθήκευσης {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip βλπ. σχ. \ref {φωτ:Η στοίβα αποθήκευσης από Θράμπο} και \ref {φωτ:Η στοίβα αποθήκευσης από Festo}}}{37}{section*.68}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{37}{section*.69}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα μεταφοράς {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip βλπ. σχ. \ref {φωτ:Η μονάδα μεταφοράς από Θράμπο} και \ref {φωτ:Η στοίβα αποθήκευσης από Festo}}}{37}{section*.70}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Ανάλυση λειτουργίας}{38}{section*.71}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.2}Σταθμός ελέγχου \cite {FestoMPSTestingStationManual} \cite {ΤοΦυσικόΣύστημαFestoMPS} \cite {UMLΕνσωματωμέναΣυστήματα}}{39}{subsection.6.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Εισαγωγή}{39}{section*.72}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{40}{section*.73}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα αναγνώρισης {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip βλπ. σχ. \ref {φωτ:Η μονάδα αναγνώρισης από Festo}}\p@index {μονάδα!αναγνώρισης}}{40}{section*.74}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα ανύψωσης {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip βλπ. σχ. \ref {φωτ:Η μονάδα ανύψωσης από Festo}}\p@index {μονάδα!ανύψωσης}}{40}{section*.75}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα μέτρησης {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip βλπ. σχ. \ref {φωτ:Η μονάδα μέτρησης από Festo} και \ref {φωτ:Σχηματική απεικόνιση της μονάδας μέτρησης από Θράμπο}}\p@index {μονάδα!μέτρησης}}{41}{section*.76}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα κύλισης με εξομάλυνση αέρα {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip βλπ. σχ. \ref {φωτ:Η μονάδα κύλισης με εξομάλυνση αέρα από Festo} και \ref {φωτ:Σχηματική απεικόνιση της μονάδας κύλισης με εξομάλυνση αέρα από Θράμπο}}\p@index {μονάδα!κύλισης με εξομάλυνση αέρα}}{41}{section*.77}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα κύλισης {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip βλπ. σχ. \ref {φωτ:Η μονάδα κύλισης από Festo}} \p@index {μονάδα!κύλισης}}{41}{section*.78}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Ανάλυση λειτουργίας}{41}{section*.79}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.3}Σταθμός επεξεργασίας \cite {FestoMPSProcessingStationManual} \cite {ΤοΦυσικόΣύστημαFestoMPS} \cite {UMLΕνσωματωμέναΣυστήματα}}{46}{subsection.6.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Εισαγωγή}{46}{section*.80}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{47}{section*.81}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{47}{section*.82}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα περιστροφής\p@index {μονάδα!περιστροφής}}{47}{section*.83}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα διάτρησης {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip (βλπ. σχ. \ref {φωτ:Η μονάδα διάτρησης από Festo} και \ref {φωτ:Σχηματική αναπαράσταση της μονάδας διάτρησης από Θράμπο})}\p@index {μονάδα!διάτρησης}}{48}{section*.84}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα ελέγχου {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip (βλπ. σχ. \ref {φωτ:Η μονάδα ελέγχου από Festo} και \ref {φωτ:Σχηματική αναπαράσταση της μονάδας ελέγχου από Θράμπο})}\p@index {μονάδα!ελέγχου}}{48}{section*.85}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Ανάλυση λειτουργίας}{48}{section*.86}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.4}Σταθμός αποθήκευσης \cite {FestoMPSHandlingStationManual} \cite {ΤοΦυσικόΣύστημαFestoMPS} \cite {UMLΕνσωματωμέναΣυστήματα}}{53}{subsection.6.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Εισαγωγή}{53}{section*.87}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{53}{section*.88}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα μεταφοράς\p@index {μονάδα!μεταφοράς}}{53}{section*.89}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Μονάδα αποθήκευσης\p@index {μονάδα!αποθήκευσης}}{53}{section*.90}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Ανάλυση λειτουργίας}{55}{section*.91}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Μοντελοποίηση του συστήματος}{56}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{56}{section*.92}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Μοντέλο Σύλληψης\p@index {μοντέλο!σύλληψης} - Conception Model\p@index {model!conception}}{56}{subsection.6.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{56}{section*.93}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}Μοντέλο Ανάλυσης\p@index {μοντέλο!ανάλυσης} - Analysis Model\p@index {model!analysis}}{56}{subsection.6.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{56}{section*.94}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.3}Μοντέλο Υλοποίησης\p@index {μοντέλο!υλοποίησης} - Implementation Model\p@index {model!implementation}}{56}{subsection.6.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{56}{section*.95}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Σημείωση}{57}{section*.96}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.4}Μοντέλο Συστήματος Ελέγχου\p@index {μοντέλο!συστήματος ελέγχου}}{57}{subsection.6.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{57}{section*.97}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Έλεγχος του συστήματος ελέγχου του Festo MPS}{59}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{59}{section*.98}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Δεύτερο πεδίο εφαρμογής :\\ Takos System}{61}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Συμπεράσματα}{62}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Συμφωνούμε με τα παρακάτω}{62}{section.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Συσχετιζόμενες εργασίες}{64}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.1}Σχεδίαση βάση εξομείωσης}{64}{section.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Η σχεδίαση βάση εξομείωσης}{64}{section*.99}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.2}SoC, SysML and SystemC}{64}{section.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Copying from \cite {SoCSysMLSystemC} : }{64}{section*.100}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9.3}The processing system paradigm}{65}{section.9.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Copying from \cite {ProcessingSysPar}}{65}{section*.101}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}Προοπτικές}{66}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{66}{section*.102}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Παραρτήματα}{67}{section*.103}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }}Festo MPS\textregistered System}{68}{Παράρτημα.alph1.Alph1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{68}{section*.104}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.1}Μοντέλο Σύλληψης\p@index {μοντέλο!σύλληψης} - Conception Model\p@index {model!conception}}{68}{section.alph1.Alph1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.1.1}Χώρος υλοποίησης συστήματος\p@index {χώρος υλοποίησης} - Contex\p@index {contex}}{68}{subsection.alph1.Alph1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.1.2}Πακέτο απαιτήσεων\p@index {πακέτο!απαιτήσεις}\p@index {απαιτήσεις!πακέτο} - Requirements package\p@index {requirements!package}\p@index {package!requirements}}{71}{subsection.alph1.Alph1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.1.3}Πακέτο δομής\p@index {πακέτο!δομής}\p@index {δομή!πακέτο} - Structure package\p@index {structure!package}\p@index {package!structure}}{78}{subsection.alph1.Alph1.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.1.4}Πακέτο λειτουργίας\p@index {πακέτο!λειτουργίας}\p@index {λειτουργία!πακέτο} - Behaviour package\p@index {behavioul!package}\p@index {package!behaviour}}{79}{subsection.alph1.Alph1.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2}Μοντέλο Ανάλυσης\p@index {μοντέλο!ανάλυσης} - Analysis Model\p@index {model!analysis}}{85}{section.alph1.Alph1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2.1}Χώρος υλοποίησης συστήματος\p@index {χώρος υλοποίησης} - Contex\p@index {contex}}{85}{subsection.alph1.Alph1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2.2}Πακέτο απαιτήσεων\p@index {πακέτο!απαιτήσεις}\p@index {απαιτήσεις!πακέτο} - Requirements package\p@index {requirements!package}\p@index {package!requirements}}{90}{subsection.alph1.Alph1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2.3}Πακέτο δομής\p@index {πακέτο!δομής}\p@index {δομή!πακέτο} - Structure package\p@index {structure!package}\p@index {package!structure}}{101}{subsection.alph1.Alph1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.2.4}Πακέτο λειτουργίας\p@index {πακέτο!λειτουργίας}\p@index {λειτουργία!πακέτο} - Behaviour package\p@index {behavioul!package}\p@index {package!behaviour}}{112}{subsection.alph1.Alph1.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.3}Μοντέλο Υλοποίησης\p@index {μοντέλο!υλοποίησης} -Design Model\p@index {model!design}}{125}{section.alph1.Alph1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.3.1}Χώρος υλοποίησης συστήματος\p@index {χώρος υλοποίησης} - Contex\p@index {contex}}{125}{subsection.alph1.Alph1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.3.2}Πακέτο απαιτήσεων\p@index {πακέτο!απαιτήσεις}\p@index {απαιτήσεις!πακέτο} - Requirements package\p@index {requirements!package}\p@index {package!requirements}}{156}{subsection.alph1.Alph1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.3.3}Πακέτο δομής\p@index {πακέτο!δομής}\p@index {δομή!πακέτο} - Structure package\p@index {structure!package}\p@index {package!structure}}{156}{subsection.alph1.Alph1.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.3.4}Πακέτο λειτουργίας\p@index {πακέτο!λειτουργίας}\p@index {λειτουργία!πακέτο} - Behaviour package\p@index {behavioul!package}\p@index {package!behaviour}}{165}{subsection.alph1.Alph1.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {\MakeUppercase {α\anw@true \anw@print \relax }.4}Εξομοιωτής Festo MPS\textregistered \p@index {εξομοιωτής}}{166}{section.alph1.Alph1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{167}{section*.105}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Simulator}{167}{section*.106}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{FestoMPS}{167}{section*.107}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{FestoMPS3D}{167}{section*.108}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {\MakeUppercase {β\anw@true \anw@print \relax }}Takos System}{168}{Παράρτημα.alph1.Alph2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{168}{section*.109}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {\MakeUppercase {β\anw@true \anw@print \relax }.1}Takos 1}{168}{section.alph1.Alph2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {\MakeUppercase {β\anw@true \anw@print \relax }.1.1}Takos 1.1}{168}{subsection.alph1.Alph2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Ελληνόγλωσση Βιβλιογραφία}{169}{section*.110}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Ξενόγλωσση Βιβλιογραφία}{171}{section*.112}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Γλωσσάρι}{175}{section*.114}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Συντομογραφίες}{177}{section*.116}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Λεξικό αγγλικών όρων}{179}{section*.118}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Ευρετήριο}{181}{section*.120}

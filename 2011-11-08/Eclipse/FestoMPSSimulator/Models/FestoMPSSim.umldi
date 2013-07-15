@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_vbrRUO-JEeCh4Jo5onBYYg" activeDiagram="_vbrRUe-JEeCh4Jo5onBYYg">
+  <model href="FestoMPSSim.uml#_w8IxIM37EdqwVrslYOdUDA"/>
+  <diagrams xmi:id="_vbrRUe-JEeCh4Jo5onBYYg" position="0,0" size="100,100" name="FestoMPSSim" viewport="0,0">
+    <property xmi:id="_vdpnQO-JEeCh4Jo5onBYYg" key="pageFormatName" value="A4"/>
+    <property xmi:id="_vdpnQe-JEeCh4Jo5onBYYg" key="diagramWidth" value="840"/>
+    <property xmi:id="_vdpnQu-JEeCh4Jo5onBYYg" key="diagramHeight" value="1188"/>
+    <property xmi:id="_vdpnQ--JEeCh4Jo5onBYYg" key="pageMarginName" value="Small Margin"/>
+    <property xmi:id="_vdpnRO-JEeCh4Jo5onBYYg" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_vdpnRe-JEeCh4Jo5onBYYg" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_vdpnRu-JEeCh4Jo5onBYYg" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_vdpnR--JEeCh4Jo5onBYYg" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_vdpnSO-JEeCh4Jo5onBYYg" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_vbrRUu-JEeCh4Jo5onBYYg" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="FestoMPSSim.uml#_w8IxIM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+    <contained xsi:type="di:GraphNode" xmi:id="_svOAMO-LEeCh4Jo5onBYYg" position="49,22" size="608,120">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_svOAMe-LEeCh4Jo5onBYYg" presentation="default">
+        <element href="FestoMPSSim.uml#_svfF8O-LEeCh4Jo5onBYYg"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_vFbpoO-LEeCh4Jo5onBYYg" position="49,192" size="608,120">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_vFbpoe-LEeCh4Jo5onBYYg" presentation="default">
+        <element href="FestoMPSSim.uml#_vFc3wO-LEeCh4Jo5onBYYg"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_wBjToO-LEeCh4Jo5onBYYg" position="49,336" size="608,120">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_wBjToe-LEeCh4Jo5onBYYg" presentation="default">
+        <element href="FestoMPSSim.uml#_wBlI0O-LEeCh4Jo5onBYYg"/>
+      </semanticModel>
+    </contained>
+  </diagrams>
+</diagrams:Diagrams>

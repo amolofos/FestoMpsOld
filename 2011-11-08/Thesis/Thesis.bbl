@@ -1,0 +1,784 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{ΤοΦυσικόΣύστημαFestoMPS}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Θραμπουλίδης}{.}%
+     {Κλεάνθης}{.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{greek}
+  \field{hyphenation}{greek}
+  \field{note}{τελευταία προσπέλαση : 08-2011}
+  \field{title}{Κεφάλαιο 5: Το φυσικό σύστημα}
+  \verb{url}
+  \verb http://seg.ece.upatras.gr/Courses/SE/docs/FestoMPSDescription.pdf
+  \endverb
+  \list{institution}{1}{%
+    {Τμήμα Ηλεκτρολόγων Μηχανικών και
+  Τεχνολογίας Υπολογιστών, Πανεπιστήμιο
+  Πατρών}%
+  }
+\endentry
+
+\entry{UMLΕνσωματωμέναΣυστήματα}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Αρετάκη}{.}%
+     {Αικατερίνη}{.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{greek}
+  \field{hyphenation}{greek}
+  \field{title}{Η UML στην ανάπτυξη ενσωματωμένων
+  συστημάτων}
+  \list{institution}{1}{%
+    {Τμήμα Ηλεκτρολόγων Μηχανικών και
+  Τεχνολογίας Υπολογιστών, Πανεπιστήμιο
+  Πατρών}%
+  }
+  \field{type}{Διπλωματική Εργασία}
+  \field{year}{2009}
+\endentry
+
+\entry{FoundationalConceptsMDSD}{report}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Baker}{B.}%
+     {Loyd}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Clemente}{C.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cohen}{C.}%
+     {Bob}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Permenter}{P.}%
+     {Larry}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Purves}{P.}%
+     {Byron}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salmon}{S.}%
+     {Pete}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{BL+1}
+  \strng{fullhash}{BLCPCBPLPBSP1}
+  \field{sortinit}{B}
+  \field{hyphenation}{english}
+  \field{title}{Foundational Concepts for Model Driven System Design}
+  \list{institution}{1}{%
+    {Model Driven System Design Working Group, INCOSE}%
+  }
+  \field{type}{paper}
+  \field{year}{1996}
+\endentry
+
+\entry{MDSysDevelIBM}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Balmelli}{B.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brown}{B.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cantor}{C.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mott}{M.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{BL+2}
+  \strng{fullhash}{BLBDCMMM1}
+  \field{sortinit}{B}
+  \field{hyphenation}{english}
+  \field{number}{3}
+  \field{title}{Model-driven systems development}
+  \field{volume}{45}
+  \field{journaltitle}{IBM Systems Journal}
+  \field{year}{2006}
+\endentry
+
+\entry{FestoChangerModuleManual}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Co.}{C.}%
+     {Festo Didactic GmbH~\&}{F.~D. G.~.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{CFDG1}
+  \strng{fullhash}{CFDG1}
+  \field{sortinit}{C}
+  \field{hyphenation}{english}
+  \field{title}{Changer module Manual 527435}
+  \verb{url}
+  \verb http://www.festo-didactic.com/int-en/services/printed-media/data-sheets
+  \verb /mps-mechatronics/changer-module-manual-527435.htm?fbid=aW50LmVuLjU1Ny4
+  \verb xNy4zMi4xMDkzLjU2MjQ
+  \endverb
+  \field{type}{manual}
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{FestoMPSDistributionStationManual}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Co.}{C.}%
+     {Festo Didactic GmbH~\&}{F.~D. G.~.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{CFDG1}
+  \strng{fullhash}{CFDG1}
+  \field{sortinit}{C}
+  \field{hyphenation}{english}
+  \field{title}{Distribution Station Manual 648811}
+  \verb{url}
+  \verb http://www.festo-didactic.com/int-en/learning-systems/courseware/mechat
+  \verb ronic-learning-systems/training-documentation/training-documentation-mp
+  \verb s-distribution-station.htm?fbid=aW50LmVuLjU1Ny4xNy4xOC41MjYuNDQ1NQ
+  \endverb
+  \field{type}{manual}
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{FestoMPSHandlingStationManual}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Co.}{C.}%
+     {Festo Didactic GmbH~\&}{F.~D. G.~.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{CFDG1}
+  \strng{fullhash}{CFDG1}
+  \field{sortinit}{C}
+  \field{hyphenation}{english}
+  \field{title}{Handling Station Manual 655633}
+  \verb{url}
+  \verb http://www.festo-didactic.com/int-en/learning-systems/mps-the-modular-p
+  \verb roduction-system/stations/handling-station,pneumatic-all-rounder-with-p
+  \verb neumatic-linear-drive.htm?fbid=aW50LmVuLjU1Ny4xNy4xOC42MDYuMzk0Ng
+  \endverb
+  \field{type}{manual}
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{OverviewMPSStations}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Co.}{C.}%
+     {Festo Didactic GmbH~\&}{F.~D. G.~.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{CFDG1}
+  \strng{fullhash}{CFDG1}
+  \field{sortinit}{C}
+  \field{hyphenation}{english}
+  \field{title}{Overview of MPS\textregistered Stations}
+  \verb{url}
+  \verb http://www.festo-didactic.com/ov3/media/customers/1100/0042930300107522
+  \verb 3804.pdf
+  \endverb
+  \field{type}{technical paper}
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{FestoMPSProcessingStationManual}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Co.}{C.}%
+     {Festo Didactic GmbH~\&}{F.~D. G.~.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{CFDG1}
+  \strng{fullhash}{CFDG1}
+  \field{sortinit}{C}
+  \field{hyphenation}{english}
+  \field{title}{Processing Station Manual 648813}
+  \verb{url}
+  \verb http://www.festo-didactic.com/int-en/learning-systems/mps-the-modular-p
+  \verb roduction-system/stations/processing-station-purely-electrical.htm
+  \endverb
+  \field{type}{manual}
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{FestoStackMagazineModuleManual}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Co.}{C.}%
+     {Festo Didactic GmbH~\&}{F.~D. G.~.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{CFDG1}
+  \strng{fullhash}{CFDG1}
+  \field{sortinit}{C}
+  \field{hyphenation}{english}
+  \field{title}{Stack magazine module Manual 527434}
+  \verb{url}
+  \verb http://www.festo-didactic.com/int-en/services/printed-media/data-sheets
+  \verb /mps-mechatronics/stack-magazine-module-manual-527434.htm?fbid=aW50LmVu
+  \verb LjU1Ny4xNy4zMi4xMDkzLjU2MjM
+  \endverb
+  \field{type}{manual}
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{FestoMPSTestingStationManual}{manual}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Co.}{C.}%
+     {Festo Didactic GmbH~\&}{F.~D. G.~.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{CFDG1}
+  \strng{fullhash}{CFDG1}
+  \field{sortinit}{C}
+  \field{hyphenation}{english}
+  \field{title}{Testing Station Manual 648812}
+  \verb{url}
+  \verb http://www.festo-didactic.com/int-en/learning-systems/mps-the-modular-p
+  \verb roduction-system/stations/focus-on-sensors-testing-station.htm
+  \endverb
+  \field{type}{manual}
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{MultilanguageDesignHeterogeneousSystems}{inproceedings}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Coste}{C.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hessel}{H.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {LE~Marrec}{L.~M.}%
+     {PH.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sugar}{S.}%
+     {Z.}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {RomDhani}{R.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Suescun}{S.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zergainoh}{Z.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jerraya}{J.}%
+     {A.A.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {IEEE}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{CP+1}
+  \strng{fullhash}{CPHFLMPSZRMSRZNJA1}
+  \field{sortinit}{C}
+  \field{booktitle}{Proceedings of the Seventh International Workshop on
+  Hardware/Software Codesign}
+  \field{eventtitle}{CODES'99}
+  \field{hyphenation}{english}
+  \field{pages}{54\bibrangedash 58}
+  \field{title}{Multilanguage Design of Heterogeneous Systems}
+  \list{location}{1}{%
+    {Rome, Italy}%
+  }
+  \field{year}{1999}
+\endentry
+
+\entry{APracticalGuideToSysML}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Friedenthal}{F.}%
+     {Sanford}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moore}{M.}%
+     {Alan}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steiner}{S.}%
+     {Rick}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Elsevier Inc.}%
+  }
+  \keyw{english}
+  \strng{namehash}{FSMASR1}
+  \strng{fullhash}{FSMASR1}
+  \field{sortinit}{F}
+  \field{hyphenation}{english}
+  \field{isbn}{978-0123743794}
+  \field{subtitle}{The Systems Modeling Language}
+  \field{title}{A Practical Guide to SysML}
+  \field{day}{07}
+  \field{month}{08}
+  \field{year}{2008}
+\endentry
+
+\entry{SysMLDigitalEngineering}{inproceedings}{}
+  \name{author}{5}{}{%
+    {{}%
+     {G{\"u}demann}{G.}%
+     {Matthias}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kegel}{K.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ortmeier}{O.}%
+     {Frank}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poenicke}{P.}%
+     {Olaf}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Richter}{R.}%
+     {Klaus}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{GM+1}
+  \strng{fullhash}{GMKSOFPORK1}
+  \field{sortinit}{G}
+  \field{booktitle}{Proceedings of the First International Workshop on Digital
+  Engineering}
+  \field{eventtitle}{IWDE '10}
+  \field{hyphenation}{english}
+  \field{isbn}{978-1-60558-992-3}
+  \field{pages}{1\bibrangedash 8}
+  \field{title}{SysML in Digital Engineering}
+  \field{year}{2010}
+\endentry
+
+\entry{PhotosFestoMPSUniversityHalle}{online}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hirsch}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Helwig}{H.}%
+     {Marco}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{HMHM1}
+  \strng{fullhash}{HMHM1}
+  \field{sortinit}{H}
+  \field{hyphenation}{english}
+  \field{note}{lastly accessed : 08-2011}
+  \field{title}{FESTO - Modular Production System}
+  \verb{url}
+  \verb http://www.ece.auckland.ac.nz/~vyatkin/halle/index.htm
+  \endverb
+  \list{institution}{1}{%
+    {Martin Luther University of Halle}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{IncoseSEH}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Incose}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{I1}
+  \strng{fullhash}{I1}
+  \field{sortinit}{I}
+  \field{hyphenation}{english}
+  \field{subtitle}{A Guide for System Life Cycle Processes and Activities}
+  \field{title}{Systems Engineering Handbook v.3}
+  \list{institution}{1}{%
+    {INCOSE}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{ProcessingSysPar}{report}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Larsen}{L.}%
+     {Jens}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muth}{M.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Herzberg}{H.}%
+     {Dominikus}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{LJMTHD1}
+  \strng{fullhash}{LJMTHD1}
+  \field{sortinit}{L}
+  \field{hyphenation}{english}
+  \field{title}{A fresh view on model-based systems engineering: The processing
+  system paradigm}
+  \list{institution}{3}{%
+    {AB Vascaia}%
+    {Ericsson Eurolab Deutschland GmbH}%
+    {Ericsson Research Canada}%
+  }
+\endentry
+
+\entry{MBEStrategicPlanActivity}{report}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Loyd~Baker}{L.~B.}%
+     {Jr.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{LBJ1}
+  \strng{fullhash}{LBJ1}
+  \field{sortinit}{L}
+  \field{hyphenation}{english}
+  \field{title}{Lessons Learned Applying Model-Based System Engineering Methods
+  to a Strategic Planning Activity}
+  \list{institution}{1}{%
+    {Vitech Corporation, Huntsville, Alabama}%
+  }
+\endentry
+
+\entry{JournalDefenseMogyorodi}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mogyorodi}{M.}%
+     {G.~E.}{G.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{MGE1}
+  \strng{fullhash}{MGE1}
+  \field{sortinit}{M}
+  \field{hyphenation}{english}
+  \field{number}{3}
+  \field{title}{What Is Requirements-Based Testing?}
+  \field{volume}{16}
+  \field{journaltitle}{Crosstalk, The Journal of Defense Software Engineering}
+  \field{year}{03}
+  \field{endyear}{2003}
+\endentry
+
+\entry{SimBasedDesignP1}{inproceedings}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Peak}{P.}%
+     {Russell~S.}{R.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burkhart}{B.}%
+     {Roger~M.}{R.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Friedenthal}{F.}%
+     {Sanford~A.}{S.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miyako}{M.}%
+     {Wilson~W.}{W.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bajaj}{B.}%
+     {Manas}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Injoong}{I.}%
+     {Kim}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {INCOSE}%
+  }
+  \keyw{english}
+  \strng{namehash}{PRS+1}
+  \strng{fullhash}{PRSBRMFSAMWWBMIK1}
+  \field{sortinit}{P}
+  \field{eventtitle}{INCOSE Intl. Symposium, San Diego}
+  \field{hyphenation}{english}
+  \field{title}{Simulation-Based Design Using SysML Part 1- A Parametrics
+  Primer}
+  \list{institution}{2}{%
+    {Georgia Tech, Deere & Co.,}%
+    {Lockheed Martin Corp.}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{SimBasedDesignP2}{inproceedings}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Peak}{P.}%
+     {Russell~S.}{R.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burkhart}{B.}%
+     {Roger~M.}{R.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Friedenthal}{F.}%
+     {Sanford~A.}{S.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miyako}{M.}%
+     {Wilson~W.}{W.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bajaj}{B.}%
+     {Manas}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Injoong}{I.}%
+     {Kim}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {INCOSE}%
+  }
+  \keyw{english}
+  \strng{namehash}{PRS+1}
+  \strng{fullhash}{PRSBRMFSAMWWBMIK1}
+  \field{sortinit}{P}
+  \field{eventtitle}{INCOSE Intl. Symposium, San Diego}
+  \field{hyphenation}{english}
+  \field{title}{Simulation-Based Design Using SysML Part 2- Celebrating
+  Diversity by Example}
+  \list{institution}{2}{%
+    {Georgia Tech, Deere & Co.,}%
+    {Lockheed Martin Corp.}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{SoCSysMLSystemC}{report}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Prevostini}{P.}%
+     {Mauro}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zamsa}{Z.}%
+     {Elena}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{PMZE1}
+  \strng{fullhash}{PMZE1}
+  \field{sortinit}{P}
+  \field{hyphenation}{english}
+  \field{title}{SysML Profile fos SoC Design and SystemC Transformation}
+  \list{institution}{1}{%
+    {Faculty of Informatics, University of Lugano}%
+  }
+  \field{day}{11}
+  \field{month}{05}
+  \field{year}{2007}
+\endentry
+
+\entry{SMWirelessSensorNetwork}{report}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Sachdeva}{S.}%
+     {Gautam}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dömer}{D.}%
+     {Rainer}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chou}{C.}%
+     {Pai}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{SGDRCP1}
+  \strng{fullhash}{SGDRCP1}
+  \field{sortinit}{S}
+  \field{hyphenation}{english}
+  \field{note}{CECS-TR-05-12}
+  \field{title}{System Modeling : A Case Study on a Wireless Sensor Network}
+  \list{institution}{1}{%
+    {Center for Embedded Computer System, University of California, Irvine,
+  USA}%
+  }
+  \field{type}{Technical Report}
+  \field{day}{15}
+  \field{month}{06}
+  \field{year}{2005}
+\endentry
+
+\entry{MBSESystemArchitectureNavalShipDesign}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tepper}{T.}%
+     {Nadia~A.}{N.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{TNA1}
+  \strng{fullhash}{TNA1}
+  \field{sortinit}{T}
+  \field{hyphenation}{english}
+  \field{title}{Exploring the use of Model-Based Systems Engineering (MBSE) to
+  develop Systems Architectures in Naval Ship Design}
+  \list{institution}{1}{%
+    {Department of Mechanical Engineering, MIT}%
+  }
+  \field{type}{masterthesis}
+  \field{month}{05}
+  \field{year}{2010}
+\endentry
+
+\entry{SMSpacecraft}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Zarvani}{Z.}%
+     {Fatemeh}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{english}
+  \strng{namehash}{ZF1}
+  \strng{fullhash}{ZF1}
+  \field{sortinit}{Z}
+  \field{hyphenation}{english}
+  \field{subtitle}{Master of Science Thesis in the Programme Networks and
+  Distributed Systems}
+  \field{title}{System Modelling for Spacecraft On-Board Computers}
+  \list{location}{1}{%
+    {Göteborg, Sweden}%
+  }
+  \list{institution}{2}{%
+    {Department of Computer Science}%
+    {Engineering, Chalmes University of Technology}%
+  }
+  \field{type}{masterthesis}
+  \field{month}{03}
+  \field{year}{2010}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

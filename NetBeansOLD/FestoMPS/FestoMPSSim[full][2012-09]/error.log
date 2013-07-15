@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1253" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-09-04T15:27:57</date>
+  <millis>1346761677372</millis>
+  <sequence>0</sequence>
+  <logger>errorLog</logger>
+  <level>SEVERE</level>
+  <class>Tools.LoggerManager</class>
+  <method>appendRecord</method>
+  <thread>15</thread>
+  <message>IOException : copying java 3D files with java.nio.file.NoSuchFileException: Resources\j3dcore-ogl.dll</message>
+</record>
+</log>

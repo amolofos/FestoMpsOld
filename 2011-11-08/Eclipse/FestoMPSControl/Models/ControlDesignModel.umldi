@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_MV_ZoO-MEeCh4Jo5onBYYg" activeDiagram="_MV_Zoe-MEeCh4Jo5onBYYg">
+  <model href="ControlDesignModel.uml#_w8IxIM37EdqwVrslYOdUDA"/>
+  <diagrams xmi:id="_MV_Zoe-MEeCh4Jo5onBYYg" position="0,0" size="100,100" name="ControlDesignModel" viewport="0,87">
+    <property xmi:id="_MWUJwO-MEeCh4Jo5onBYYg" key="pageFormatName" value="A4"/>
+    <property xmi:id="_MWUJwe-MEeCh4Jo5onBYYg" key="diagramWidth" value="840"/>
+    <property xmi:id="_MWUJwu-MEeCh4Jo5onBYYg" key="diagramHeight" value="1188"/>
+    <property xmi:id="_MWUJw--MEeCh4Jo5onBYYg" key="pageMarginName" value="Small Margin"/>
+    <property xmi:id="_MWUJxO-MEeCh4Jo5onBYYg" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_MWUJxe-MEeCh4Jo5onBYYg" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_MWUJxu-MEeCh4Jo5onBYYg" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_MWUJx--MEeCh4Jo5onBYYg" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_MWUJyO-MEeCh4Jo5onBYYg" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_MV_Zou-MEeCh4Jo5onBYYg" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="ControlDesignModel.uml#_w8IxIM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+    <contained xsi:type="di:GraphNode" xmi:id="_NrhCIO-MEeCh4Jo5onBYYg" position="44,77" size="644,120">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_NrhCIe-MEeCh4Jo5onBYYg" presentation="default">
+        <element href="ControlDesignModel.uml#_NrkFcO-MEeCh4Jo5onBYYg"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_OQ-foO-MEeCh4Jo5onBYYg" position="44,228" size="644,120">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_OQ-foe-MEeCh4Jo5onBYYg" presentation="default">
+        <element href="ControlDesignModel.uml#_ORAU0O-MEeCh4Jo5onBYYg"/>
+      </semanticModel>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_PCy-IO-MEeCh4Jo5onBYYg" position="44,388" size="644,120">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_PCy-Ie-MEeCh4Jo5onBYYg" presentation="default">
+        <element href="ControlDesignModel.uml#_PC0zUO-MEeCh4Jo5onBYYg"/>
+      </semanticModel>
+    </contained>
+  </diagrams>
+</diagrams:Diagrams>

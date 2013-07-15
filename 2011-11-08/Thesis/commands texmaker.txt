@@ -1,0 +1,10 @@
+xelatex -synctex=1 -interaction=nonstopmode %.tex|
+bibtex %|
+makeindex %.idx|
+makeindex -s %.ist -t %.glg -o %.gls %.glo|
+makeindex -s %.ist -t %.trt -o %.trr %.trn|
+makeindex -s %.ist -t %.alg -o %.acr %.acn|
+xelatex -synctex=1 -interaction=nonstopmode %.tex|
+xelatex -synctex=1 -interaction=nonstopmode %.tex|
+xelatex -synctex=1 -interaction=nonstopmode %.tex|
+"C:/Program Files/Adobe/Acrobat 10.0/Acrobat/Acrobat.exe" %.pdf

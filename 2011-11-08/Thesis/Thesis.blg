@@ -1,0 +1,13 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
+The style file: biblatex.bst
+Database file #1: Thesis-blx.bib
+Database file #2: Bibliography.bib
+I was expecting a `{' or a `('---line 2 of file Bibliography.bib
+ : %The biblatex Package - Programmable Bibliographies and Citations by Philipp Lehman [plehman@gmx.net] 
+ :                                                                                                       Version 1.4c May 12, 2011
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "FestoMPSHandlingStayionManual"
+Biblatex version: 1.6
+Too many commas in name 1 of "Center for Embedded Computer System, University of California, Irvine, USA" for entry SMWirelessSensorNetwork
+while executing---line 2645 of file biblatex.bst
+(There were 2 error messages)
